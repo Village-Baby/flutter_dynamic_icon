@@ -92,12 +92,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/mhe/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.1.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "sky_engine",
       "rootUri": "file:///Users/mhe/Documents/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -152,13 +146,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "variable_app_icon",
+      "name": "dynamic_icon_flutter",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.15"
     }
   ],
-  "generated": "2022-10-19T12:49:09.634975Z",
+  "generated": "2022-10-19T15:43:37.375005Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }

@@ -50,10 +50,6 @@ path
 2.12
 file:///Users/mhe/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/
 file:///Users/mhe/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/lib/
-plugin_platform_interface
-2.12
-file:///Users/mhe/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.1.3/
-file:///Users/mhe/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.1.3/lib/
 source_span
 2.12
 file:///Users/mhe/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1/
@@ -98,8 +94,8 @@ flutter_test
 2.12
 file:///Users/mhe/Documents/flutter/packages/flutter_test/
 file:///Users/mhe/Documents/flutter/packages/flutter_test/lib/
-variable_app_icon
-2.12
+dynamic_icon_flutter
+2.15
 file:///Users/mhe/flutter_dynamic_icon/
 file:///Users/mhe/flutter_dynamic_icon/lib/
 2
